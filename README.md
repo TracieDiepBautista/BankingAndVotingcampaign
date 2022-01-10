@@ -1,10 +1,14 @@
 # Python_my_challenge
-This is my very first projects using Python. 
+ - This is my very first projects using Python. 
 
-Py_Bank_budget: 
+1. Py_Bank_budget: 
 
-do Financial analysis to find out the Profit |Loss during entire period to see how changes are in each period. 
+    . what?: do Financial analysis to find out the Profit |Loss during entire period to see how changes are in each period. 
+    . how?: use Python functions without Pandas (JupiterNote)
 
-Py_Poll_voting_results
+2. Py_Poll_voting_results
     
-helping a State to find out who is the winner by counting the votes from citizens. Also have a comparison among 4 candidates.  
+    . What: helping a State to find out who is the winner by counting the votes from citizens. Also have a comparison among 4 candidates.  
+    . How: Python function without Pandas (JupiterNote)
+
+Conclusion: with Pandas we can solve out the above projects quicker and easier but yet, this is likely a self challence if we want to :) 
