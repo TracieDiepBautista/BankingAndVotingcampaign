@@ -1,23 +1,14 @@
 # Python_my_challenge
-Py_Poll works:
-import os
-import csv
+ - This is my very first projects using Python. 
 
-# Set path for file
-csvpath = os.path.join("Resources","election_data.csv")
+1. Py_Bank_budget: 
 
-# Open the CSV
-with open(csvpath) as calculation:
-    Voting= csv.reader(calculation, delimiter=",")
-    header=next(Voting)
-    #Assign the variables
-    Vote_count = []
-    for x in Voting:
-        Voter_ID= x[0]
-        county = x[1]
-        Candidates = x[2]
-        Vote_count.append(Voter_ID)
-    number_of_votes = len(Vote_count)
-    print(f"There are totally {number_of_votes} votes counted.")
+    . what?: do Financial analysis to find out the Profit |Loss during entire period to see how changes are in each period. 
+    . how?: use Python functions without Pandas (JupiterNote)
+
+2. Py_Poll_voting_results
     
-  
+    . What: helping a State to find out who is the winner by counting the votes from citizens. Also have a comparison among 4 candidates.  
+    . How: Python function without Pandas (JupiterNote)
+
+Conclusion: with Pandas we can solve out the above projects quicker and easier but yet, this is likely a self challence if we want to :) 
