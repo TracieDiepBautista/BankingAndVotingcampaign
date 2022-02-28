@@ -33,11 +33,12 @@
     
     The winner was: Khan with 63% ~ 2,218,231 votes. Congrats to Mr Khan! 
     
-    *  Bank budget: 
+    *  Bank budgeting: 
         . The observed period was total in 86 months
-        . The total profit | loss over the entire period is $671,099
-        . The total net changes during entire period was $38,382,578
+        . The total changes during entire period was $38,382,578
+        . Average change: $-2,315.12
         . The highest profit gained of each period was $1,926,159
+        . The highest loss of each period was $-2,196,167
        
 ```diff
 - Author:
