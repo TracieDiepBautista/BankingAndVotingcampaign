@@ -1,5 +1,5 @@
 ```diff
-+ Bank budget analysis AND County Vote count
+- Bank budget analysis AND County Vote count
 ```
 
     1) Bank budget analysis: 
@@ -14,14 +14,14 @@
     
 
 ```diff
-+ Tools and Technology used to solve the project:
+- Tools and Technology used to solve the project:
 ```
 
     - Python
     - Jupyter Notebook 
  
  ```diff
- + Results:
+ - Results:
  ```
     
     * Vouting count: 
